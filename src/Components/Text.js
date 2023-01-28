@@ -38,7 +38,7 @@ function Text(props) {
   const [Cap, setCap] = useState("form-control");
   return (
     <>
-      <div className="container my-5 text-center">
+      <div className="container my-5 text-center" id="scrollspyHeading3">
         <h2>
           {TextA.split(" ").length} Words and {TextA.length} Characters
         </h2>
