@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordDoctor/static/css/main.e6c13ad2.css",
+    "main.js": "/WordDoctor/static/js/main.358112a6.js",
+    "static/js/787.60235f71.chunk.js": "/WordDoctor/static/js/787.60235f71.chunk.js",
+    "index.html": "/WordDoctor/index.html",
+    "main.e6c13ad2.css.map": "/WordDoctor/static/css/main.e6c13ad2.css.map",
+    "main.358112a6.js.map": "/WordDoctor/static/js/main.358112a6.js.map",
+    "787.60235f71.chunk.js.map": "/WordDoctor/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.358112a6.js"
+  ]
+}
