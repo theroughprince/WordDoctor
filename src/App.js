@@ -1,4 +1,4 @@
-import './Button.css';
+import './App.css';
 import Navbar from "./Components/Navbar";
 import Text from "./Components/Text";
 import About from "./Components/About";
