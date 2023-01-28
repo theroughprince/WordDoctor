@@ -5,6 +5,7 @@ export default function Navbar(props) {
     <nav
       className="navbar bg-dark navbar-expand-lg text-center"
       data-bs-theme="dark"
+     id="scrollspyHeading3"
     >
       <div className="container-fluid">
         <h3>
