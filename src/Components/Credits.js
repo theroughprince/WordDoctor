@@ -7,7 +7,10 @@ function Credits() {
         className="container text-center mb-2 pb-2 bg-light p-5" id="scrollspyHeading2"
       >
         <p>
-          Tera Bhai @<b>Prashant Patil</b>
+          Tera Bhai @
+          <a href="#scrollspyHeading3">
+            <b>Prashant Patil</b>
+          </a>
         </p>
       </div>
     </>
